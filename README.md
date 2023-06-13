@@ -1,8 +1,7 @@
 Hi👋
 =======================================================================================================================================
 
-<h4 align="left">A Software Engineer 💻 Enthusiastic about designing and learning new and creative features in web development.
-.</h4>
+<h4 align="left">A Software Engineer 💻 Enthusiastic about designing and learning new and creative features in web development.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Musab-Salah&label=Profile%20views&color=0e75b6&style=flat" alt="Musab-Salah" /> </p>
