@@ -28,7 +28,7 @@ Hi👋
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="postman" /></a>
 <a href="https://www.adobe.com/il_en/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1243/PNG/512/adobepremiereicon_84147.png" width="36" height="36" alt="adobe" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/android-studio-icon.svg" width="36" height="36" alt="android studio" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" width="36" height="36" alt="android studio" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" width="36" height="36" alt="Linux  " /></a>
 <a href="https://apex.oracle.com/en/" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2w2p6/styles/communityIcon_rw05p80x8ry81.png" width="36" height="36" alt="apex" /></a>
 </p>
