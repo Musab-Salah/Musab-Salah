@@ -3,15 +3,8 @@
 ###
 <h3 align="left">👨🏻‍💻  About Me</h3>
 <p align="left">Enthusiastic about designing and learning new and creative features in web development.</p>
-
 ###
-<h3 align="left">⚙️  GitHub Analytics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musab-Salah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Musab-Salah&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=12&theme=dark&hide_border=false" height="180" alt="languages graph"  />
-</div>
 
-###
 <h3 align="left">🛠  Tech Stack</h3>
 
 <div align="left">
@@ -70,7 +63,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
 </div>
+###
+<h3 align="left">⚙️  GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Musab-Salah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Musab-Salah&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=12&theme=dark&hide_border=false" height="180" alt="languages graph"  />
+</div>
 
+###
 
 <div >
 <h3 align="left">🤝🏻  Connect with Me</h3>
