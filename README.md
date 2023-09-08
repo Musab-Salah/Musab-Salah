@@ -72,7 +72,7 @@
 
 ###
 <h3 align="left">🤝🏻  Connect with Me</h3>
-<div align="left">
+<div >
   <a href="https://www.instagram.com/musab_.salah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
