@@ -12,6 +12,7 @@
 </div>
 
 ###
+<div >
 <h3 align="left">🛠  Tech Stack</h3>
   <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height="180" alt="logo"  />
 <div align="left">
@@ -68,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
+</div>
 </div>
 
 ###
