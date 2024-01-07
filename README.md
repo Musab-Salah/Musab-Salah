@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="154" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
+
+###
+
 <p align="left">✨ Passionate about web development and mobile app development.<br>📚 Enthusiastic learner, always seeking new challenges.<br>🎯 Love tackling challenges and creating innovative solutions.<br>🎲 Committed to continuous learning and growth.</p>
 
 ###
@@ -47,10 +51,6 @@
 ###
 
 <h2 align="left">GitHub Analytics</h2>
-
-###
-
-<img align="right" height="168" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 
 ###
 
