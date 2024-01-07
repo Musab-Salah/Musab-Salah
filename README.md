@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="154" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<img align="right" height="110" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 
 ###
 
